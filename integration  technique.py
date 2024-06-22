@@ -4,7 +4,7 @@
 # 3x-x**2 0<3 n=3
 #(e^(-2*x))*(sin(4*x)) 0<4 n=4
 # Question #3
-"""import math
+import math
 
 def parse_function(expression):
     expression = expression.replace('^', '**')
